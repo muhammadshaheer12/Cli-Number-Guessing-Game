@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16",
-    "muhammad-shaheer-12-cli-number-guessing-game": "*"
+    "muhammad-shaheer-12-cli-number-guessing-game": "^6.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
