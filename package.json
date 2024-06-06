@@ -1,6 +1,6 @@
 {
   "name": "muhammad-shaheer-12-cli-number-guessing-game",
-  "version": "6.0.0",
+  "version": "6.0.6",
   "description": "This is cli based number guessing game",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16",
-    "muhammad-shaheer-12-cli-number-guessing-game": "^6.0.0"
+    "muhammad-shaheer-12-cli-number-guessing-game": "^6.0.5"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
